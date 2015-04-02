@@ -1,6 +1,4 @@
 # theDude
-
-
 TODO:
 *april 1, 2015*
 
