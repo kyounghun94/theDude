@@ -1,8 +1,8 @@
-#Write down the changes with the date:
-#04012015 - 1. Dude cannot move out of boundaries 
-#           2. Wall boundaries created
-#who is next?
-# YOYOYOYYOYOYY
+#	THE DUDE SOURCE CODE
+#	by ASKUS (Alvin, Sam, Kyoung)
+#
+#   Top-Down RPG Shoot em up 
+#
 
 import pygame, sys, random, math
 from pygame.locals import *
