@@ -2,6 +2,7 @@
 #04012015 - 1. Dude cannot move out of boundaries 
 #           2. Wall boundaries created
 #who is next?
+# YOYOYOYYOYOYY
 
 import pygame, sys, random, math
 from pygame.locals import *
